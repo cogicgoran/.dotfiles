@@ -1,0 +1,10 @@
+[core]
+  sshCommand = "ssh -i ~/.ssh/ssh_personal_key"
+[user]
+  name = cogicgoran
+  email = cogicgoran99@gmail.com
+[github]
+  user = "cogicgoran"
+[credential]
+  helper = cache --timeout=7200
+
